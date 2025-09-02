@@ -12,7 +12,7 @@
 
 **京东购物发票**
 <p>
-<img src="asset/image/购物发票/京东购物发票-sent.png" width="300"/>
+<img src="asset/image/购物发票/京东购物发票-sent.PNG" width="300"/>
 <img src="asset/image/购物发票/订单支付后图片-sent.png" width="300"/>
 </p>
 
