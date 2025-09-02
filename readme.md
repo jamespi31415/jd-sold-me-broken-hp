@@ -12,8 +12,8 @@
 
 **京东购物发票**
 <p>
-<img src="asset/image/购物发票/京东购物发票-sent.PNG" width="300"/>
-<img src="asset/image/购物发票/订单支付后图片-sent.PNG" width="300"/>
+<img src="asset/image/购物发票/京东购物发票-sent.png" width="300"/>
+<img src="asset/image/购物发票/订单支付后图片-sent.png" width="300"/>
 </p>
 
 2025年6月14日，收到京东自营快递的笔记本电脑。外包装箱完好。
