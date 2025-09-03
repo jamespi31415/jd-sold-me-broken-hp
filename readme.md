@@ -236,6 +236,7 @@
 <img src="asset/image/补充图片/惠普维修门事件.png" alt="惠普维修门" width="350">
 
 ### 备注4：带你读懂《消费者权益保护法》
+[带你读懂《消费者权益保护法》](https://www.bj148.org/ztk/2023nzt/tzxfxxjj2023xfzqyr/pfxc/202303/t20230314_1648476.html)
 #### 减轻消费者举证责任
 消费者权益保护法》第二十三条第三款规定：经营者提供的机动车、计算机、电视机、电冰箱、空调器、洗衣机等耐用商品或者装饰装修等服务，消费者自接受商品或者服务之日起六个月内发现瑕疵，发生争议的，由经营者承担有关瑕疵的举证责任。
 
@@ -257,12 +258,14 @@
 </p>
 
 ### 备注5: 网购电脑“货不对板”被判退一赔三
+[货不对板退一赔三](https://finance.sina.com.cn/tech/digi/2025-01-22/doc-inefwfmw5479159.shtml)
 <p>
 <img src="asset/image/补充图片/退一赔三案例01.png" alt="退一赔三案例" width="300">
 <img src="asset/image/补充图片/退一赔三案例02.png" alt="退一赔三案例" width="300">
 </p>
 
 ### 备注6: （B站UP主）京东买张显卡赔了我27900，不能惯着他们——电商退一赔三经验
+[京东返修显卡赔偿27900](https://www.bilibili.com/video/BV1sg4y1A7JV)
 <p>
 <img src="asset/image/补充图片/京东买张显卡赔了我27900.png" alt="京东赔偿27900" width="300">
 </p>
