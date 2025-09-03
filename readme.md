@@ -262,6 +262,12 @@
 <img src="asset/image/补充图片/退一赔三案例02.png" alt="退一赔三案例" width="300">
 </p>
 
+### 备注6: 京东买张显卡赔了我27900，不能惯着他们——电商退一赔三经验
+<p>
+<img src="asset/image/补充图片/京东买张显卡赔了我27900.png.png" alt="京东赔偿27900" width="300">
+</p>
+
+
 
 
 ## Contributing
