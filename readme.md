@@ -87,53 +87,53 @@
 这里挑选几张看看：
 ### 涂胶一塌糊涂，把这么高配的电脑，糟蹋成这个模样：（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0696.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0696.png" alt="胡乱涂胶的维修痕迹" width="350">
 
-<img src="维修痕迹高清图片/IMG_0699.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0699.png" alt="胡乱涂胶的维修痕迹" width="350">
 
-<img src="维修痕迹高清图片/IMG_0700.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0700.png" alt="胡乱涂胶的维修痕迹" width="350">
 
-<img src="维修痕迹高清图片/IMG_0701.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0701.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 把这个排线也涂上了什么东西：（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0702.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0702.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 到处是残留的胶：（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0704.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0704.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 这个“返A AK”是什么意思，是“返厂“的意思？（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0712.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0712.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 完全看不见的地方，也涂满了胶：（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0718.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0718.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 惠普和京东，你们成了“夹心饼干工厂”了吗，到处像是夹心饼干：（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0720.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0720.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ## 连内存条上都有胶的痕迹，是把原厂的内存条都更换过了吗？（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0722.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0722.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 我想不明白，涂胶为什么要涂到内存条上：（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0723.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0723.png" alt="胡乱涂胶的维修痕迹" width="350">
 
-<img src="维修痕迹高清图片/IMG_0727.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0727.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 这个角落里，也满是胶，是把胶整个倒到主板上了？（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0725.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0725.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 ### 排线接口上，又是涂胶，又是不明蓝色痕迹，这到底是做了啥（点击图片可以查看大图）
 
-<img src="维修痕迹高清图片/IMG_0729.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0729.png" alt="胡乱涂胶的维修痕迹" width="350">
 
-<img src="维修痕迹高清图片/IMG_0730.png" alt="胡乱涂胶的维修痕迹" width="400">
+<img src="维修痕迹高清图片/IMG_0730.png" alt="胡乱涂胶的维修痕迹" width="350">
 
 更多维修痕迹高清图片，在“维修痕迹高清图片”文件夹里，点击[查看更多图片](https://github.com/jamespi31415/jd-sold-me-broken-hp/blob/main/%E7%BB%B4%E4%BF%AE%E7%97%95%E8%BF%B9%E9%AB%98%E6%B8%85%E5%9B%BE%E7%89%87/%E7%BB%B4%E4%BF%AE%E7%97%95%E8%BF%B9%E9%AB%98%E6%B8%85%E5%9B%BE%E7%89%87.md)
 
@@ -169,13 +169,13 @@
 
 与惠普的电子邮件沟通记录：
 <div>
-  <img src="asset/image/惠普沟通图片/hp-email-sent-01.png" alt="hp-email-sent-01" width="400">
-  <img src="asset/image/惠普沟通图片/hp-email-sent-02.png" alt="hp-email-sent-02" width="400">
-  <img src="asset/image/惠普沟通图片/hp-email-sent-03.png" alt="hp-email-sent-03" width="400">
-  <img src="asset/image/惠普沟通图片/hp-email-sent-04.png" alt="hp-email-sent-04" width="400">
-  <img src="asset/image/惠普沟通图片/hp-email-sent-05.png" alt="hp-email-sent-05" width="400">
-  <img src="asset/image/惠普沟通图片/hp-email-sent-06.png" alt="hp-email-sent-06" width="400">
-  <img src="asset/image/惠普沟通图片/hp-email-sent-07.png" alt="hp-email-sent-07" width="400">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-01.png" alt="hp-email-sent-01" width="350">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-02.png" alt="hp-email-sent-02" width="350">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-03.png" alt="hp-email-sent-03" width="350">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-04.png" alt="hp-email-sent-04" width="350">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-05.png" alt="hp-email-sent-05" width="350">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-06.png" alt="hp-email-sent-06" width="350">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-07.png" alt="hp-email-sent-07" width="350">
 </div>
 
 ## 第三部分：与京东的沟通
@@ -216,11 +216,11 @@
 
 备注1：京东集团披露2024年第四季度及全年业绩，2024年全年，京东集团共实现营业收入11588亿元（人民币），实现净利润414亿元。
 [京东2024年营收](https://www.stcn.com/article/detail/1567598.html)
-<img src="asset/image/补充图片/京东2024年营收-sent.png" alt="京东2024年营收" width="400">
+<img src="asset/image/补充图片/京东2024年营收-sent.png" alt="京东2024年营收" width="350">
 
 备注2: 2010年8月7日晚，惠普高层向媒体通告，将在全国范围内停止销售返修机，并将对经销商进行彻查。
 [惠普返修机事件](https://baike.baidu.com/item/%E6%83%A0%E6%99%AE%E8%BF%94%E4%BF%AE%E9%97%A8/9820245?noadapt=1)
-<img src="asset/image/补充图片/惠普维修门事件.png" alt="惠普维修门" width="400">
+<img src="asset/image/补充图片/惠普维修门事件.png" alt="惠普维修门" width="350">
 
 备注3：法律链接，赔偿案例链接
 
