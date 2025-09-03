@@ -7,14 +7,14 @@
         <img src="https://img.youtube.com/vi/0a5Xj9ealE0/0.jpg" alt="中文版MV" width="320">
       </a>
       <br />
-      <b>中文版MV（Youtube，如果觉得好听，请点赞，转发）</b>
+      <b>中文版MV（Youtube）</b>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=0cd8MxPChYg" target="_blank">
         <img src="https://img.youtube.com/vi/0cd8MxPChYg/0.jpg" alt="英文版MV" width="320">
       </a>
       <br />
-      <b>英文版MV（Youtube，如果觉得好听，请点赞，转发）</b>
+      <b>英文版MV（Youtube）</b>
     </td>
   </tr>
 </table>
@@ -26,14 +26,14 @@
         <img src="http://i0.hdslb.com/bfs/archive/a365baf7cf0e10957d2ce7a5d5935e5be45e255d.jpg" alt="中文版MV" width="320">
       </a>
       <br />
-      <b>中文版MV（B站，如果觉得好听，请点赞，转发）</b>
+      <b>中文版MV（B站）</b>
     </td>
     <td align="center">
       <a href="https://www.bilibili.com/video/BV1LGarzMEPg" target="_blank">
         <img src="http://i2.hdslb.com/bfs/archive/56dc5051edde4225ee38813424037ac2bae5edfd.jpg" alt="英文版MV" width="320">
       </a>
       <br />
-      <b>英文版MV（B站，如果觉得好听，请点赞，转发）</b>
+      <b>英文版MV（B站）</b>
     </td>
   </tr>
 </table>
