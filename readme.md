@@ -155,11 +155,23 @@
 
 ## 惠普拒绝回答上面的任何一个问题❗️❗️❗️
 
-
+惠普说，你可以把这台电脑，拿到惠普的官方授权维修站维修。
+我说，新买的机器，里面翻修成这个样子，你让我拿去修了继续用？
 我要求，把这台破惠普，亲自送到惠普的官方授权维修站，做“是否返修机”的鉴定。
 ## 惠普竟然拒绝我把机器拿去它的官方维修站鉴定❗️❗️❗️
 
-我再打电话给之前跟我联系的惠普客服人员，她直接不接电话了。
+我给惠普工作人员发邮件，她不再回复。再打电话，她直接不接电话了。
+
+与惠普的电子邮件沟通记录：
+<div>
+  <img src="asset/image/惠普沟通图片/hp-email-sent-01.png" alt="hp-email-sent-01" width="400">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-02.png" alt="hp-email-sent-02" width="400">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-03.png" alt="hp-email-sent-03" width="400">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-04.png" alt="hp-email-sent-04" width="400">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-05.png" alt="hp-email-sent-05" width="400">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-06.png" alt="hp-email-sent-06" width="400">
+  <img src="asset/image/惠普沟通图片/hp-email-sent-07.png" alt="hp-email-sent-07" width="400">
+</div>
 
 （插入一张：我不理你，你能把我怎么样的图片，衣服上写着“HP”logo）
 
