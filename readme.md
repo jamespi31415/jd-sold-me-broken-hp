@@ -19,6 +19,25 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.bilibili.com/video/BV1xUa6z9EsQ" target="_blank">
+        <img src="http://i0.hdslb.com/bfs/archive/a365baf7cf0e10957d2ce7a5d5935e5be45e255d.jpg" alt="中文版MV" width="320">
+      </a>
+      <br />
+      <b>中文版MV（B站，如果觉得好听，请点赞，转发）</b>
+    </td>
+    <td align="center">
+      <a href="https://www.bilibili.com/video/BV1LGarzMEPg" target="_blank">
+        <img src="http://i2.hdslb.com/bfs/archive/56dc5051edde4225ee38813424037ac2bae5edfd.jpg" alt="英文版MV" width="320">
+      </a>
+      <br />
+      <b>英文版MV（B站，如果觉得好听，请点赞，转发）</b>
+    </td>
+  </tr>
+</table>
+
 2025年6月，中国最大的自营电商京东公司JD.com（股票代码 NASDAQ: JD），把一台破损的惠普公司（股票代码 NYSE: HPQ）制造的高端消费级笔记本电脑 HP OMEN MAX RTX 5090（无论是玩游戏，还是玩大模型，都是笔记本顶配），当成全新机卖给我，电脑售价22999元。消费者多次向惠普公司投诉，多次向京东公司投诉，多次向010-12345（010-12315已经并入010-12345）政府平台投诉，两家公司均采取流氓战略：
 ### **不承认❗️不解释❗️不赔偿❗️**
 
@@ -217,7 +236,7 @@
 <img src="asset/image/补充图片/京东2024年营收-sent.png" alt="京东2024年营收" width="350">
 
 
-### 备注2: 京东销售以次充好的外星人电脑遭客户投诉。（从该案例和本人经历看出，京东是个老手。如同明尼苏达事件，其实是老手，只是运气不好翻车了）
+### 备注2: 京东销售以次充好的外星人电脑遭客户投诉。
 [京东外星人电脑事件](https://www.sohu.com/a/604691852_121197322)
 <p>
 <img src="asset/image/补充图片/京东外星人-sent-01.png" alt="京东外星人事件" width="200">
