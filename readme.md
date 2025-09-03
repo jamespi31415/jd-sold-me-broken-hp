@@ -298,9 +298,9 @@
 5. 不要被平台商家老板的个人魅力所迷惑。平台对待顾客的态度，才是老板的真实态度。新闻媒体上的形象，只是一种宣传形象。（有消息说，老板给员工全员交社保的新闻，是因为老板提前知道了国家即将出台的政策，不得不干，抢着干了，还赚了一波掌声，不知道真假，请自行分辨）
 
 ## Contact
-邮箱：jamespi31415@gmail.com
-Youtube：https://www.youtube.com/@jamespibig
-B站： 
+#### 邮箱：jamespi31415@gmail.com
+#### Youtube：https://www.youtube.com/@jamespibig
+#### B站： 
 
 
 
