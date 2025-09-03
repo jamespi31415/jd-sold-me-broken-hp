@@ -1,5 +1,4 @@
-# **JD Sold Me Broken HP**
-# **京东卖我破惠普**
+# **JD Sold Me Broken HP**  **京东卖我破惠普**
 
 <table>
   <tr>
