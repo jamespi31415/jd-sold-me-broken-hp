@@ -1,5 +1,10 @@
 # **JD Sold Me Broken HP**
 # **京东卖我破惠普**
+
+[![中文版MV](https://img.youtube.com/vi/0a5Xj9ealE0/0.jpg)](https://www.youtube.com/watch?v=0a5Xj9ealE0)
+
+[![英文版MV](https://img.youtube.com/vi/0cd8MxPChYg/0.jpg)](https://www.youtube.com/watch?v=0cd8MxPChYg)
+
 2025年6月，中国最大的自营电商京东公司JD.com（股票代码 NASDAQ: JD），把一台破损的惠普公司（股票代码 NYSE: HPQ）制造的高端消费级笔记本电脑 HP OMEN MAX RTX 5090（无论是玩游戏，还是玩大模型，都是笔记本顶配），当成全新机卖给我，电脑售价22999元。消费者多次向惠普公司投诉，多次向京东公司投诉，多次向010-12345（010-12315已经并入010-12345）政府平台投诉，两家公司均采取流氓战略：
 ### **不承认❗️不解释❗️不赔偿❗️**
 
