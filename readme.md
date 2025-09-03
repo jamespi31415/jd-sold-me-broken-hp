@@ -271,20 +271,17 @@
 </p>
 
 
-
-
-## Contributing
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push to the branch.
-5. Open a pull request.
-
-## License
-Specify the license under which the project is distributed.
+## 补充说明
+1. 您可以把本项目，当成自己电商维权的模版。切记，一定要拍摄开箱视频和拆机视频，否则，跟流氓商家的沟通会非常吃力（本人已经拍摄了开箱视频和拆机视频，商家依然对本人耍流氓）
+2. 如果你喜欢本人创作的MV，请发给朋友一起欣赏。本人更喜欢英文版。
+3. 平台商家财大气粗，拥有强大的资源，一旦被他们侵权，要做长期斗争的准备（京东已经拖了我长达3个月）。
+4. 发动一切资源，对平台商家进行抵制。本人和家人，以及可以影响到的人，已经不再使用京东的任何商品和服务。
+5. 不要被平台商家老板的个人魅力所迷惑。平台对待顾客的态度，才是老板的真实态度。新闻媒体上的形象，只是一种宣传形象。（有消息说，老板给员工全员交社保的新闻，是因为老板提前知道了国家即将出台的政策，不得不干，抢着干了，还赚了一波掌声，不知道真假，请自行分辨）
 
 ## Contact
-jamespi31415@gmail.com
+邮箱：jamespi31415@gmail.com
+Youtube：https://www.youtube.com/@jamespibig
+B站： 
 
 
 
