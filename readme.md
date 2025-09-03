@@ -7,14 +7,14 @@
         <img src="https://img.youtube.com/vi/0a5Xj9ealE0/0.jpg" alt="中文版MV" width="320">
       </a>
       <br />
-      <b>中文版MV</b>
+      <b>中文版MV（Youtube，如果觉得好听，请点赞，转发）</b>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=0cd8MxPChYg" target="_blank">
         <img src="https://img.youtube.com/vi/0cd8MxPChYg/0.jpg" alt="英文版MV" width="320">
       </a>
       <br />
-      <b>英文版MV</b>
+      <b>英文版MV（Youtube，如果觉得好听，请点赞，转发）</b>
     </td>
   </tr>
 </table>
