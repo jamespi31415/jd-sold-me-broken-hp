@@ -185,7 +185,7 @@
 多次跟京东沟通无果后，我给京东发送一份邮件，以正式表达不满：
 <img src="asset/image/京东沟通图片/jd-sent-01.png" alt="jd-sent-01" width="600">
 
-我向京东发出了“灵魂问题”：
+在邮件里，我向京东发出了“灵魂问题”：
 * ### 问题1：贵司能否出具书面证明，证明该设备自入库至出库的完整生命周期内，从未被开启或维修？如回答‘否’或‘无法提供’，即视作京东放弃举证。
 
 * ### 问题2：贵司能否出具书面证明，证明该设备从未被其他消费者购买后退货、并经历任何形式的处置（如检测、维修、重新包装）？如回答‘否’或‘无法提供’，即视作京东放弃举证。
@@ -215,6 +215,20 @@
 备注1：京东集团披露2024年第四季度及全年业绩，2024年全年，京东集团共实现营业收入11588亿元（人民币），实现净利润414亿元。
 [京东2024年营收](https://www.stcn.com/article/detail/1567598.html)
 <img src="asset/image/补充图片/京东2024年营收-sent.png" alt="京东2024年营收" width="350">
+
+备注2: 京东销售以次充好的外星人电脑遭客户投诉。（从该案例和本人经历看出，这是个老手。如同明尼苏达事件，其实是老手，只是运气不好翻车了）
+[京东外星人电脑事件](https://www.sohu.com/a/604691852_121197322)
+<p>
+<img src="asset/image/补充图片/京东外星人-sent-01.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-02.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-03.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-04.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-05.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-06.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-07.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-08.png" alt="京东外星人事件" width="200">
+<img src="asset/image/补充图片/京东外星人-sent-09.png" alt="京东外星人事件" width="200">
+</p>
 
 备注2: 2010年8月7日晚，惠普高层向媒体通告，将在全国范围内停止销售返修机，并将对经销商进行彻查。
 [惠普返修机事件](https://baike.baidu.com/item/%E6%83%A0%E6%99%AE%E8%BF%94%E4%BF%AE%E9%97%A8/9820245?noadapt=1)
